@@ -37,8 +37,8 @@ jobs:
         env:
           ISSUE_TITLE: ${{ github.event.issue.title }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "muathye[bot]"
+          git config --global user.email "muath.ye@gmail.com"
           git add .
           git commit -m "${ISSUE_TITLE} by ${{ github.event.issue.user.login }}"
           git push
