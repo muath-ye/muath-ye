@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
+
 # Chess Tournament On My Profile
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
@@ -62,16 +64,15 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 ---
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
+
 <details align="center">
 
 <summary> <b> <samp> More about me! : </samp></b></summary>
 <samp>
 <div align='center'>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
-
- </div>
+</div>
  
 <a align='center' href='https://twitter.com/muathye'>
     <p align="center">
