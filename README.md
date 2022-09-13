@@ -1,3 +1,15 @@
+
+<a align='center' href='https://twitter.com/muathye'>
+    <p align="center">
+        <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/muathye.png' />
+    </p>
+</a>
+
+<details align="center">
+<summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
+<samp>
+<div align='center'>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=header)
 
 # Chess Tournament On My Profile
@@ -62,9 +74,10 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 <!-- END TOP MOVES -->
 </details>
 
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=60&section=footer)
+
+</samp>
+</details>
 
 <details align="center">
 
@@ -74,11 +87,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 </div>
  
-<a align='center' href='https://twitter.com/muathye'>
-    <p align="center">
-        <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/muathye.png' />
-    </p>
-</a>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Muath.
