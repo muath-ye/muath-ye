@@ -8,6 +8,8 @@
 <!-- 2022 10 27 | 12:02 -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muath-ye&label=221,027|1202&color=0e75b6&style=flat" alt="Muathye" /> </p>
 
+<p align="center"> <img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg" alt="Total time coded since May 26 2022" /> </p>
+
 <details align="center">
 <summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
 <samp>
