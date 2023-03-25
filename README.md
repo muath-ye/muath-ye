@@ -97,25 +97,4 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 </samp>
 </details>
 
-<details align="center">
-
-<summary> <b> <samp> More about me! : </samp></b></summary>
-<samp>
-<div align='center'>
-
-</div>
- 
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Muath.
-</p>
-<h6 align='center'>Stay tuned at my <a target="_blank" href="https://muath-ye.github.io/">resume</a> and don't forget to <a href="https://github.com/muath-ye/Muathye-cv/raw/master/docs/muathye-cv.pdf">download</a> your copy.</h6>
-<h5 align='center'>For enquiries, contact me at <a href="mailto:muath.ye@gmail.com">muath.ye@gmail.com</a> or over on <a href="https://twitter.com/muathye">Twitter</a>.</h5>
-
-<div align='center' style="display: flex;justify-content: center;">
-<img height='28'  src="https://camo.githubusercontent.com/44f28101d7497ced91d960ce483606ecb09d757dddf3f857a71f615a6703a007/687474703a2f2f657374727579662d6769746875622e617a75726577656273697465732e6e65742f6170692f56697369746f724869743f757365723d6d756174682d7965267265706f3d6d756174682d7965" />
-<!-- <a height='28' align='center' href="https://wakatime.com/@caa98403-bf58-4655-a14f-0e8425d6225b"><img src="https://wakatime.com/badge/user/caa98403-bf58-4655-a14f-0e8425d6225b.svg?style=for-the-badge" alt="Total time coded since May 26 2022" /></a> -->
-</div>
-
-</samp>
-</details>
+![Metrics](https://metrics.lecoq.io/muath-ye?template=terminal&isocalendar=1&languages=1&lines=1&achievements=1&code=1&posts=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=100&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&posts=false&posts.source=dev.to&posts.user=muathye&posts.descriptions=true&posts.covers=true&posts.limit=4&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=muathye&wakatime.sections=time%2C%20languages&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&config.timezone=Asia%2FBaghdad&config.octicon=true&config.display=large)
