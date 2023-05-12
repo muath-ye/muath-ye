@@ -1,7 +1,7 @@
 
 <a align='center' href='https://twitter.com/muathye'>
     <p align="center">
-        <img height='256px' src='https://raw.githubusercontent.com/muath-ye/muath-ye/master/muathye.png' />
+        <img width='100%' src='https://github.com/muath-ye/muath-ye/raw/master/img/banner.svg' />
     </p>
 </a>
 
