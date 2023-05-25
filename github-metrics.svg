@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1792" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1779" class="large">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    396k added, 4.57k removed
+                                    631k added, 32.1k removed
                                 </div>
                             </section>
                             <section>
@@ -1250,15 +1250,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.24 0,1.24 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.24 1.7,2.24 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.119999999999999)">
+                            <g transform="translate(-1.7, 6.08)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.88 0,1.88 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.88 1.7,2.88 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.92 0,1.92 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.92 1.7,2.92 z"/>
                             </g>
-                            <g transform="translate(-3.4, 6)">
+                            <g transform="translate(-3.4, 6.04)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4 0,3 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3 1.7,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.96 0,2.96 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.96 1.7,3.96 z"/>
                             </g>
                             <g transform="translate(-5.1, 8.280000000000001)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2033,7 +2033,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.18m out of 403m repositories</span>
+                                    <span class="gh">ranked 3.17m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2193,7 +2193,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">f4b420b8</span>
-                            <span class="code">docs/.vitepress/dist/assets/index.md.6b2ea18a.lean.js</span>
+                            <span class="code">docs/.vitepress/dist/assets/ar_articles_gitmoji.md.81f52231.lean.js</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -2204,14 +2204,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import{_ as e,c as t,o as a}from"./app.26270015.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"home","hero":{"name":"Muath Alsowadi","text":"Web designer &amp; developer.","tagline":"Founder of @open-sale. On a mission to improve programming quality.","image":{"src":"/images/muathye.png","alt":"muathye"},"actions":[{"theme":"brand","text":"Resume","link":"/resume"},{"theme":"alt","text":"Follow me on Github","link":"https://github.com/muath-ye"}]}},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"};function n(r,i,s,m,c,l){return a(),t("div")}const u=e(o,[["render",n]]);export{p as __pageData,u as default};</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">import{_ as t,c as d,o as r,a as e}from"./app.26270015.js";const g=JSON.parse('{"title":"Gitmoji","description":"","frontmatter":{"layout":"doc"},"headers":[{"level":2,"title":"An emoji guide for your commit messages","slug":"an-emoji-guide-for-your-commit-messages"}],"relativePath":"ar/articles/gitmoji.md"}'),a={name:"ar/articles/gitmoji.md"},o=e("",3),i=[o];function s(n,c,_,l,h,m){return r(),d("div",null,i)}const p=t(a,[["render",s]]);export{g as __pageData,p as default};</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2023, 15:10:25 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 16:14:06 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
