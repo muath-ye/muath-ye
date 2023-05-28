@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    694k added, 30.4k removed
+                                    699k added, 44.2k removed
                                 </div>
                             </section>
                             <section>
@@ -843,15 +843,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.4399999999999995)">
+                            <g transform="translate(-1.7, 6.359999999999999)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.56 0,1.56 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.56 1.7,2.56 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.64 0,1.6400000000000001 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6400000000000001 1.7,2.64 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.04)">
+                            <g transform="translate(-3.4, 7.119999999999999)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.96 0,1.96 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.96 1.7,2.96 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.88 0,1.88 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.88 1.7,2.88 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.96)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2169,7 +2169,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">20dd61fe</span>
-                            <span class="code">2020/03/19/لمطوري-الويب-إليك-محرر-أكواد-يدعم-تقن/feed/index.rss</span>
+                            <span class="code">2020/04/06/لن-تكون-عالمًا-حتى-تكون-متعلمًا،-ولن-تك/feed/index.rss</span>
                             <span class="code">
                                 <span class="snippet additions">++2</span>
                                 <span class="snippet deletions">--2</span>
@@ -2180,14 +2180,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,8 +11,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;channel&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;title&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">التعليقات على: لمطوري الويب &amp;#8230; إليك محرر أكواد يدعم تقنيات الويب بكفاءة عالية	&lt;/title&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;atom:link href="https://7seen.net/2020/03/19/%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A5%D9%84%D9%8A%D9%83-%D9%85%D8%AD%D8%B1%D8%B1-%D8%A3%D9%83%D9%88%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%82%D9%86/feed/" rel="self" type="application/rss+xml" /&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;link&gt;https://7seen.net/2020/03/19/%d9%84%d9%85%d8%b7%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a5%d9%84%d9%8a%d9%83-%d9%85%d8%ad%d8%b1%d8%b1-%d8%a3%d9%83%d9%88%d8%a7%d8%af-%d9%8a%d8%af%d8%b9%d9%85-%d8%aa%d9%82%d9%86/&lt;/link&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;atom:link href="https://7seen-net.github.io/b/2020/03/19/%D9%84%D9%85%D8%B7%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%88%D9%8A%D8%A8-%D8%A5%D9%84%D9%8A%D9%83-%D9%85%D8%AD%D8%B1%D8%B1-%D8%A3%D9%83%D9%88%D8%A7%D8%AF-%D9%8A%D8%AF%D8%B9%D9%85-%D8%AA%D9%82%D9%86/feed/" rel="self" type="application/rss+xml" /&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;link&gt;https://7seen-net.github.io/b/2020/03/19/%d9%84%d9%85%d8%b7%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%88%d9%8a%d8%a8-%d8%a5%d9%84%d9%8a%d9%83-%d9%85%d8%ad%d8%b1%d8%b1-%d8%a3%d9%83%d9%88%d8%a7%d8%af-%d9%8a%d8%af%d8%b9%d9%85-%d8%aa%d9%82%d9%86/&lt;/link&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;description&gt;مدونة 7 سين&lt;/description&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;lastBuildDate&gt;Thu, 19 Mar 2020 16:45:04 +0000&lt;/lastBuildDate&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;sy:updatePeriod&gt;</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -11,8 +11,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;channel&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;title&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">التعليقات على: لن تكون عالمًا حتى تكون متعلمًا، ولن تكون متعلمًا حتى تكون بما علمت عاملاً	&lt;/title&gt;<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;atom:link href="https://7seen.net/2020/04/06/%D9%84%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%85%D9%8B%D8%A7-%D8%AD%D8%AA%D9%89-%D8%AA%D9%83%D9%88%D9%86-%D9%85%D8%AA%D8%B9%D9%84%D9%85%D9%8B%D8%A7%D8%8C-%D9%88%D9%84%D9%86-%D8%AA%D9%83/feed/" rel="self" type="application/rss+xml" /&gt;<br /></span><span class="token prefix deleted">-</span><span class="token line">&lt;link&gt;https://7seen.net/2020/04/06/%d9%84%d9%86-%d8%aa%d9%83%d9%88%d9%86-%d8%b9%d8%a7%d9%84%d9%85%d9%8b%d8%a7-%d8%ad%d8%aa%d9%89-%d8%aa%d9%83%d9%88%d9%86-%d9%85%d8%aa%d8%b9%d9%84%d9%85%d9%8b%d8%a7%d8%8c-%d9%88%d9%84%d9%86-%d8%aa%d9%83/&lt;/link&gt;<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;atom:link href="https://7seen-net.github.io/b/2020/04/06/%D9%84%D9%86-%D8%AA%D9%83%D9%88%D9%86-%D8%B9%D8%A7%D9%84%D9%85%D9%8B%D8%A7-%D8%AD%D8%AA%D9%89-%D8%AA%D9%83%D9%88%D9%86-%D9%85%D8%AA%D8%B9%D9%84%D9%85%D9%8B%D8%A7%D8%8C-%D9%88%D9%84%D9%86-%D8%AA%D9%83/feed/" rel="self" type="application/rss+xml" /&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;link&gt;https://7seen-net.github.io/b/2020/04/06/%d9%84%d9%86-%d8%aa%d9%83%d9%88%d9%86-%d8%b9%d8%a7%d9%84%d9%85%d9%8b%d8%a7-%d8%ad%d8%aa%d9%89-%d8%aa%d9%83%d9%88%d9%86-%d9%85%d8%aa%d8%b9%d9%84%d9%85%d9%8b%d8%a7%d8%8c-%d9%88%d9%84%d9%86-%d8%aa%d9%83/&lt;/link&gt;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;description&gt;مدونة 7 سين&lt;/description&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;lastBuildDate&gt;Mon, 06 Apr 2020 10:40:30 +0000&lt;/lastBuildDate&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;sy:updatePeriod&gt;</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 May 2023, 05:10:36 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 May 2023, 06:02:49 (timezone Asia/Baghdad) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
