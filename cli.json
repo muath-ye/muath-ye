@@ -1,0 +1,52 @@
+{
+    "content" : [
+        {
+            "label": "name",
+            "labelColor": "bright",
+            "value": "Muath Alsowadi",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "email",
+            "labelColor": "bright",
+            "value": "muathye@gmail.com",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "title",
+            "labelColor": "bright",
+            "value": "Web developer",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "github",
+            "labelColor": "bright",
+            "value": "https://github.com/muath-ye",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "linkedIn",
+            "labelColor": "bright",
+            "value": "https://www.linkedin.com/in/muathye",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "instagram",
+            "labelColor": "bright",
+            "value": "https://www.instagram.com/muathye",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "stackOverflow",
+            "labelColor": "bright",
+            "value": "https://stackoverflow.com/users/11229804/muath-alsowadi",
+            "valueColor": "fgYellow"
+        },
+        {
+            "label": "Skills",
+            "labelColor": "bright",
+            "value": "PHP/Laravel, Javascript, Nodejs, Express, Vuejs, Reactjs, Bootstrap, Tailwindcss, CI/CD, TDD, Mysql, Sql Server, Gatsby, GraphQL, OOP, SCSS, Web Socket, Functional Programming, Reactive Programming, GitHub , Gitlab, Bitbucket, Git VCS, Trello, ClickUp, Jira",
+            "valueColor": "fgYellow"
+        }
+    ]
+  }
