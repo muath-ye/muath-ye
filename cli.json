@@ -3,13 +3,7 @@
         {
             "label": "name",
             "labelColor": "bright",
-            "value": "Muath Alsowadi",
-            "valueColor": "fgYellow"
-        },
-        {
-            "label": "email",
-            "labelColor": "bright",
-            "value": "muathye@gmail.com",
+            "value": "Muath Alsowadi <muathye@gmail.com>",
             "valueColor": "fgYellow"
         },
         {
