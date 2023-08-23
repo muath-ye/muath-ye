@@ -41,6 +41,12 @@
                             "labelColor": "bright",
                             "value": "PHP/Laravel, Javascript, Nodejs, Express, Vuejs, Reactjs, Bootstrap, Tailwindcss, CI/CD, TDD, Mysql, Sql Server, Gatsby, GraphQL, OOP, SCSS, Web Socket, Functional Programming, Reactive Programming, GitHub , Gitlab, Bitbucket, Git VCS, Trello, ClickUp, Jira",
                             "valueColor": "fgYellow"
+                        },
+                        {
+                            "label": "Portfolio/Blog",
+                            "labelColor": "bright",
+                            "value": "https://muathye.com",
+                            "valueColor": "fgGreen"
                         }
                     ]
                 }
