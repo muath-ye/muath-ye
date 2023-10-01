@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2557 Commits
+                            2631 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    404k added, 27k removed
+                                    412k added, 26.6k removed
                                 </div>
                             </section>
                             <section>
@@ -547,15 +547,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.489795918367347 0,1.489795918367347 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.489795918367347 1.7,2.489795918367347 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.775510204081632)">
+                            <g transform="translate(-1.7, 5.8979591836734695)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2244897959183674 0,2.2244897959183674 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2244897959183674 1.7,3.2244897959183674 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1020408163265305 0,2.1020408163265305 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
                             </g>
-                            <g transform="translate(-3.4, 7.020408163265307)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.979591836734694 0,1.9795918367346939 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9795918367346939 1.7,2.979591836734694 z"/>
+                            <g transform="translate(-3.4, 6.8979591836734695)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.1020408163265305 0,2.1020408163265305 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.1020408163265305 1.7,3.1020408163265305 z"/>
                             </g>
                             <g transform="translate(-5.1, 7.653061224489796)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -690,15 +690,15 @@
                             </g>
                         </g>
                         <g transform="translate(11.9, 7)">
-                            <g transform="translate(0, 5.26530612244898)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7346938775510203 0,1.7346938775510203 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7346938775510203 1.7,2.7346938775510203 z"/>
+                            <g transform="translate(0, 5.387755102040816)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.612244897959184 0,1.6122448979591837 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6122448979591837 1.7,2.612244897959184 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.775510204081632)">
+                            <g transform="translate(-1.7, 5.653061224489796)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2244897959183674 0,2.2244897959183674 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2244897959183674 1.7,3.2244897959183674 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.3469387755102042 0,2.3469387755102042 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.3469387755102042 1.7,3.3469387755102042 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.26530612244898)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1965,7 +1965,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 988k out of 62.4m repositories</span>
+                                    <span class="gh">ranked 988k out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 23 stars</div>
                             </div>
@@ -2011,7 +2011,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.19m out of 62.4m repositories</span>
+                                    <span class="gh">ranked 3.23m out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2152,7 +2152,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 30 Sept 2023, 02:55:16
+                            On 29 Sept 2023, 20:11:29
                         </div>
                     </section>
                 </div>
@@ -2168,7 +2168,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">4dec1416</span>
+                            <span class="code">9d72c08f</span>
                             <span class="code">markdown/followers/yemen.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2180,14 +2180,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">The `number of followers` of users in Yemen on `2023/9/29 11:12 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">The `number of followers` of users in Yemen on `2023/9/29 11:55 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">There are `1 countries` and `22 cities` can be found [here](https://github.com/muath-ye/top.commits).<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">The `number of followers` of users in Yemen on `2023/9/29 4:55 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">The `number of followers` of users in Yemen on `2023/9/29 5:11 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">There are `1 countries` and `22 cities` can be found [here](https://github.com/muath-ye/top.commits).<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Oct 2023, 12:03:00 (timezone Asia/Baghdad) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2023, 13:02:36 (timezone Asia/Baghdad) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
