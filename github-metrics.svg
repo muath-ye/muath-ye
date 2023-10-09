@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5260 Commits
+                            5262 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -591,15 +591,15 @@
                             </g>
                         </g>
                         <g transform="translate(10.2, 6)">
-                            <g transform="translate(0, 5.333333333333333)">
+                            <g transform="translate(0, 5.416666666666667)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5833333333333335 0,1.5833333333333335 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5833333333333335 1.7,2.5833333333333335 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.5)">
+                            <g transform="translate(-1.7, 5.416666666666667)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5 0,2.5 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5 1.7,3.5 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5833333333333335 0,2.5833333333333335 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5833333333333335 1.7,3.5833333333333335 z"/>
                             </g>
                             <g transform="translate(-3.4, 7.5)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1436,7 +1436,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 6.26k out of 121m users</span>
+                                    <span class="gh">ranked 6.26k out of 115m users</span>
                                 </div>
                                 <div class="text">Published 579 public repositories</div>
                             </div>
@@ -1624,7 +1624,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 88.8k out of 121m users</span>
+                                    <span class="gh">ranked 88.8k out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 108 users</div>
                             </div>
@@ -1843,7 +1843,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 991k out of 62.4m repositories</span>
+                                    <span class="gh">ranked 984k out of 52.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 23 stars</div>
                             </div>
@@ -1984,7 +1984,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Oct 2023, 22:55:13
+                            On 9 Oct 2023, 00:10:28
                         </div>
                     </section>
                 </div>
@@ -2000,7 +2000,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">961c2c10</span>
+                            <span class="code">0b3a032f</span>
                             <span class="code">markdown/public_contributions/yemen.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
@@ -2012,14 +2012,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">The `public contributions` by users in Yemen on `2023/10/8 7:09 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">The `public contributions` by users in Yemen on `2023/10/8 7:55 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">There are `1 countries` and `22 cities` can be found [here](https://github.com/muath-ye/top.commits).<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -5,7 +5,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">&lt;img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg" alt="Yemen"&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line">&lt;/a&gt;<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">The `public contributions` by users in Yemen on `2023/10/8 8:55 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">The `public contributions` by users in Yemen on `2023/10/8 9:10 PM UTC`. This list contains users from `Yemen` and cities `Amant Al Asmah` `Sanaa` `Aden` `Al Hodeidah` `Thamar` `Amran` `Hajjah` `Ibb` `Sadah` `Al Baidha` `Shabwah` `Taiz` `Al Jawf` `Marib` `Hadramot` `Al Maharah` `Al Dhale` `Al Mahweet` `Lahj` `Raimah` `Socatra` `Abyan`.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">There are `1 countries` and `22 cities` can be found [here](https://github.com/muath-ye/top.commits).<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2023, 15:11:22 (timezone Asia/Baghdad) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2023, 16:11:59 (timezone Asia/Baghdad) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
