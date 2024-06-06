@@ -23,7 +23,7 @@
 A brief about me on the terminal:
 
 ```bs
-npm muath
+npx muath
 ```
 
 <details align="center">
