@@ -22,11 +22,14 @@
 
 A brief about me on the terminal:
 
-```bs
+
+```sh
 
 npx muath
 
+
 ```
+
 
 <details align="center">
 <summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
