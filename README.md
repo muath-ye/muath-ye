@@ -30,6 +30,13 @@ npx muath
 
 ```
 
+My vscode profile
+
+```sh
+https://insiders.vscode.dev/editor/profile/github/0e0445ae89e54131c6c1d444e36abdbf
+
+```
+
 
 <details align="center">
 <summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
