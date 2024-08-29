@@ -1,0 +1,190 @@
+{
+    "NAME": "Muath Alsowadi",
+    "LINKS": {
+        "GitHub": "GitHub URL",
+        "LinkedIn": "LinkedIn URL"
+    },
+    "SUMMARY": "Full stack web developer with +7 years of experience. Mainly experienced in: PHP/Laravel, Vue.js/Nuxtjs, SQL, Livewire, Alpine.js, API Development, ChatGPT integration, Gemini integrations, Whatsapp integration, Telegram integration and Server management with Devops automation. Developed variant applications and solutions for a wide range of clients and have the enthusiasm to complete projects with best practices.",
+    "EXPERIENCES": [
+        {
+            "COMPANY": "Smart Mind for Systems UAE",
+            "ROLE": "Full-Stack Developer",
+            "DURATION": "Feb 2022 - Present",
+            "RESPONSIBILITIES": [
+                "The primary duties involve developing the backend and frontend of the company's projects using the PHP/Laravel framework, Livewire and vuejs/nuxt js, participating in business and database design, collaborating with clients and developers Internationally and leveraging the Laravel ecosystems to deliver software solutions."
+            ],
+            "PROJECTS": [
+                {
+                    "NAME": "Eazycare",
+                    "DESCRIPTION": "A platform that allows users to book laboratory tests and radiology appointments in Saudi Arabia.",
+                    "DETAILS": [
+                        "The website’s blog gets +100k/month visitors.",
+                        "Website and dashboard styled and developed using the Laravel framework, Livewire and Bootstrap.",
+                        "The platform is integrated with hyperpay and Urway payment gateways.",
+                        "The platform is integrated with Msegat and Taqnyat sms providers for OTP authentication.",
+                        "Managed API authentication using the Laravel Passport.",
+                        "The platform shows some Google G4 Analytics on the dashboard.",
+                        "The platform has automated backup daily.",
+                        "The platform audits database transactions using custom code and a separate database."
+                    ]
+                },
+                {
+                    "NAME": "Medstore",
+                    "DESCRIPTION": "A platform that allows users to buy medical equipment in Saudi Arabia.",
+                    "DETAILS": [
+                        "The website’s products are over +50k products.",
+                        "Website and dashboard styled and developed using the Laravel framework, Bootstrap.",
+                        "The platform is integrated with Urway payment gateways.",
+                        "The platform is integrated with SMSA Express and iMile for shipment services."
+                    ]
+                },
+                {
+                    "NAME": "Cenomi Academy – A Journey to Excellence",
+                    "DESCRIPTION": "An educational platform provided by Obeikan Digital. The provides two-factor authentication (2FA) for user accounts in Saudi Arabia.",
+                    "DETAILS": [
+                        "The API is built using Laravel and authentication with the Sanctum laravel ecosystem.",
+                        "The platform frontend is crafted with Vuejs/vuetifyjs UI Library.",
+                        "The platform has a community to share posts with ability to comment and like.",
+                        "The platform has a knowledge base to share handbooks with trainees.",
+                        "The platform handles privileges for various user types."
+                    ]
+                },
+                {
+                    "NAME": "Saned Authenticator",
+                    "DESCRIPTION": "Android application provided by Obeikan Digital in Saudi Arabia.",
+                    "DETAILS": [
+                        "The API is built using Node Js.",
+                        "The app generates a unique, 6-digit code TOTP that changes every 30 seconds. This code is used as a second factor of authentication 2FA, in addition to a username and password, to verify the user's identity when logging into an account."
+                    ]
+                },
+                {
+                    "NAME": "CSH | Cyber Security Services, Marketplace, and Jobs",
+                    "DESCRIPTION": "A cyber-security platform for freelancing and services market in Saudi Arabia.",
+                    "DETAILS": [
+                        "I led the team and communicated with clients.",
+                        "Built the platform website using the Laravel Framework with Livewire.",
+                        "Enabled administrators to efficiently oversee users, categories, reported content, and communications.",
+                        "Provided sellers with comprehensive management capabilities for their profiles, availability, skills, portfolios, and more, along with access to analytics and reviews.",
+                        "Integrated with leading payment gateways like PayPal and Stripe to ensure secure transactions.",
+                        "Offered a detailed dashboard for managing users, orders, withdrawals, and other key activities, with analytics."
+                    ]
+                }
+            ]
+        },
+        {
+            "COMPANY": "Benefits – Yemen",
+            "ROLE": "Web Developer",
+            "DURATION": "Jun 2021 - Mar 2022",
+            "RESPONSIBILITIES": [
+                "The primary duties involve developing the backend and frontend of the company's projects using the PHP/Laravel framework, Livewire and team leading with agile methodology.",
+                "Responsible for the front-end side (HTML, CSS, and JavaScript) of the projects using Bootstrap framework.",
+                "Responsible for the backend side of the projects using the Laravel framework.",
+                "Responsible for Wordpress CMS projects.",
+                "Involved with the business and database design until the projects are ready to start in coding.",
+                "Used the Laravel ecosystem for the projects: Livewire, Passport, and so many others.",
+                "Managing code source with Git flow and Github."
+            ]
+        },
+        {
+            "COMPANY": "InfiniteCloud – Yemen",
+            "ROLE": "Full Stack Developer",
+            "DURATION": "Dec 2018 - Mar 2021",
+            "RESPONSIBILITIES": [
+                "I mainly led and trained a team of new developers, managed the company's servers and infrastructure, and developed full-stack applications, overseeing the entire lifecycle."
+            ],
+            "PROJECTS": [
+                {
+                    "NAME": "Moka Sweets",
+                    "DESCRIPTION": "An e-commerce and delivery platform for a bakery famous for pastries and sweets in Yemen.",
+                    "DETAILS": [
+                        "The platform got +100k downloads on Google play.",
+                        "Served as the tech lead for the Laravel and Flutter team.",
+                        "Built the platform website and API using Laravel Framework.",
+                        "Used SVN subversion to manage source code.",
+                        "Used Dedicated server for hosting the project.",
+                        "The platform provides variant reports for selled products and registered users."
+                    ]
+                }
+            ]
+        }
+    ],
+    "FREELANCING PROJECTS": [
+        {
+            "NAME": "Shaagher",
+            "TYPE": "Website",
+            "DESCRIPTION": "A job and tender platform built with Laravel.",
+            "DETAILS": [
+                "I managed the DevOps infrastructure of the platform and set up the CI/CD for staging and live environments.",
+                "Hosted on a VPS hosting and integrated with Cloudflare for domain server and proxy security.",
+                "Website front-end styled and developed using Nuxtjs.",
+                "Dashboard developed using the FilamentPHP Laravel framework.",
+                "Super clean and easy to use jobs and tenders platform comes with multi-language.",
+                "The backend follows RESTful API architectural style for building web services.",
+                "Coded along with the Git flow branching model and hosted on Github.",
+                "The platform allows administrators to post jobs and tenders and manage users' permissions.",
+                "The platform supports company profiles where every company administrator can post jobs and tenders.",
+                "The platform offered detailed dashboard charts and managed the company's users, jobs, tenders, permissions, and other key activities, with analytics."
+            ]
+        },
+        {
+            "NAME": "OpenSale",
+            "TYPE": "Github | Website",
+            "DESCRIPTION": "An open source e-commerce platform built with Laravel and Flutter.",
+            "DETAILS": [
+                "Built Laravel framework styling with TailwindCSS framework.",
+                "API support for clients applications.",
+                "Flutter mobile app.",
+                "Used CircleCI for continuous integration.",
+                "Used Git for managing source code.",
+                "Used Github pages for hosting the website of the project."
+            ]
+        },
+        {
+            "NAME": "Muathye.com",
+            "TYPE": "Website",
+            "DESCRIPTION": "My personal blog and website.",
+            "DETAILS": [
+                "Developed by Vitepress static site generator, using markdown to format posts.",
+                "Single Page Application (SPA).",
+                "Hosted with Github pages.",
+                "Linked with Google analytics.",
+                "Linked with Cloudflare.",
+                "CI/CD Continuously updated with the amazing integration between GitHub Actions and Github Pages, so what is added to the GitHub repository is published automatically."
+            ]
+        }
+    ],
+    "TECHNICAL SKILLS": [
+        "Amazon Simple Storage Service (Amazon S3).",
+        "Amazon Subnets, Gateways, and Route Tables (Route 53).",
+        "Version Control Tools: Git, SVN.",
+        "Version Control Hosts: GitLab, GitHub and Bitbucket.",
+        "Continuous integration tool: PHPUnit, StyleCI.",
+        "Container Platforms: Docker.",
+        "Azure Bots."
+    ],
+    "EDUCATION": [
+        {
+            "DEGREE": "Bachelor of Information Technology",
+            "INSTITUTION": "Sana'a University",
+            "LOCATION": "Sana’a, Yemen",
+            "YEAR": "2014 - 2018"
+        },
+        {
+            "DEGREE": "Intermediate English Diploma",
+            "INSTITUTION": "Canadian Training Center",
+            "LOCATION": "Sana’a, Yemen",
+            "YEAR": "Apr 2012 - Aug 2012"
+        }
+    ],
+    "COMMUNITY CONTRIBUTIONS": "Mainly contribute on Yemen Open Source and personal Github profile with different composer packages and npm and productivity tools.",
+    "LANGUAGES": [
+        {
+            "LANGUAGE": "Arabic",
+            "PROFICIENCY": "Native language."
+        },
+        {
+            "LANGUAGE": "English",
+            "PROFICIENCY": "Intermediate."
+        }
+    ]
+}
