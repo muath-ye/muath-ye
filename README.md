@@ -6,7 +6,7 @@
     </p>
 </a>
 
-<a align='center' href='https://wakatime.com/@muathye'>
+<a align='center' href='https://wakatime.com/@muath'>
     <p align="center">
         <img width='100%' src='https://wakatime.com/share/@muath/a8930a67-96a2-428a-9d1b-bf362372e755.svg' />
     </p>
