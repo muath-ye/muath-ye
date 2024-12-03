@@ -36,7 +36,7 @@ My vscode profile
 https://insiders.vscode.dev/editor/profile/github/0e0445ae89e54131c6c1d444e36abdbf
 
 ```
-
+You can [read](https://resume.muathye.com) my cv or download it as [pdf](https://docs.google.com/document/d/16trp7NDznynAbLOrosEajkBLoy-CSdJoGr5JeJUtWWM/export?format=pdf) or [docx](https://docs.google.com/document/d/16trp7NDznynAbLOrosEajkBLoy-CSdJoGr5JeJUtWWM/export?format=docx).
 
 <details align="center">
 <summary> <b> <samp> Chess Tournament On My Profile ♟️ </samp></b></summary>
