@@ -1,10 +1,12 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
+<!--
 <a align='center' href='https://twitter.com/muathye'>
     <p align="center">
         <img width='100%' src='https://github.com/muath-ye/muath-ye/raw/master/img/banner.svg' />
     </p>
 </a>
+-->
 
 <a align='center' href='https://wakatime.com/@muath'>
     <p align="center">
